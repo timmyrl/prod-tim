@@ -1,0 +1,32 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarybasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "foo"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "expression": false,
+                "fp": "0487e5d03af2d30e02972f3353ab20fe94c8d030f780117974962cdd82e202c5",
+                "key": "account-cloud-managed-52e99318640a9a03d8681d0d-2015-05-02T16:09:59-767256",
+                "sym_iv": "Leb+glHpWcKCX1tFuDeEKQ==",
+                "sym_key": "dLz0l9JqlotDp1geXYc7JI3yssFVOFFYXJQT0Ros73tKmOiUMKtr5iPGKynfSz3SYi/dpWn4fmi8LuA0//+9+uesZW7e4RWAaOTOXaTojuj5+eR7xVRI4z+6/VadLizoxKp8aJJ2VkK/DbtGodjVrBm0lT/TTDeVzDpy1dsS964M2TfbDKA6gcYqXVp3O9li54RZHSs1dIeYjlVgqt9WEY7fczlINi7Fo+2t9go043nK4I5YUTXgvgKmY2KJHTn2P8PuIHMo15oJKYuACB2fEaOOpeqGKdZ1BsFkzx1lcF0j/Oz9xyEIRAN/MzCp1M/s2fTUoqOFWinKoNzdGa1PUw==",
+                "value": "Dx6OQgsCEi2DcyFAsdM3aQ=="
+            },
+            "username": {
+                "expression": false,
+                "value": "bar"
+            }
+        },
+        "view_serial": 100
+    }
+}
